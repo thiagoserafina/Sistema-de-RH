@@ -40,7 +40,7 @@ public class TestaRh {
 		System.out.println("Após demissão");
 		System.out.println("------------------------\n");
 
-		recursosHumanos.demitir(thiago);
+		recursosHumanos.demitir(matheus);
 		recursosHumanos.imprimirListaFuncionarios();
 
 	}
